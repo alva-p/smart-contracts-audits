@@ -5,9 +5,24 @@
 </p>
 
 
-Heyy, Alva here, a curated collection of my smart contract security audits in PDF format.
+Hello, I'm Alva. Welcome to the curated collection of my smart contract security audits.
 
-This repository tracks my progress as a blockchain security researcher and auditor. It includes audits from different sources, challenge levels, and goals: some focused on learning, others aimed at professional growth and paid opportunities.
+This repository serves as a public ledger of my progress as a Web3 Security Researcher and Smart Contract Auditor. It includes audit reports from a variety of sources, encompassing different challenge levels and objectives—ranging from continuous learning to professional engagements and bug bounty programs.
+
+## Bug Bounty & Audit Findings
+
+A summary of my confirmed findings across major Web3 security and bug bounty platforms:
+
+| Platform | Critical | High | Medium | Low | Total Findings |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **HackenProof** | 1 | 0 | 0 | 0 | **1** |
+| **Immunefi** | 0 | 0 | 1 | 0 | **1** |
+| **Code4rena** | 0 | 0 | 0 | 0 | **0** |
+| **Sherlock** | 0 | 0 | 0 | 0 | **0** |
+| **Cantina** | 0 | 0 | 0 | 0 | **0** |
+| **HackerOne** | 0 | 0 | 0 | 0 | **0** |
+
+*Note: This table is continuously updated as new findings are confirmed and disclosed.*
 
 ## Purpose
 
@@ -15,13 +30,6 @@ This repository tracks my progress as a blockchain security researcher and audit
 - Improve my auditing skills through continuous practice
 - Document findings, attack surfaces, and remediation ideas
 - Showcase real audit reports for clients, teams, and recruiters
-
-## What You Will Find
-
-- Audit reports in PDF format
-- Different types of targets (protocols, contracts, modules, and challenges)
-- Mixed difficulty levels, from beginner-friendly to advanced
-- Audits from multiple sources (practice platforms, competitions, private/public work when shareable)
 
 
 ## Audit Approach
@@ -42,20 +50,7 @@ When included in a report, findings are usually classified as:
 - High: significant security or economic impact
 - Medium: meaningful risk under realistic conditions
 - Low: limited impact or edge-case risk
-- Informational: quality, clarity, or best-practice improvements
 
-## Why This Repository Exists
-
-I am building this collection for two reasons:
-
-- Learning: sharpen technical depth, pattern recognition, and exploit thinking
-- Professional growth: increase audit quality, credibility, and access to paid work
-
-## Notes
-
-- Reports here are educational and informational.
-- Some audits may be simplified practice reports.
-- Private engagements are only included when disclosure is allowed.
 
 ## Contact
 
